@@ -9,14 +9,13 @@ function hasClass(element, cls) {
 document.ready = function () {
 
   var matcher = document.getElementsByClassName("bracket-matcher");
-  var parent = matcher[0].parentElement;
 
   var divs = document.getElementsByTagName('div');
 
   for(var i = 0; i < divs.length; i++) {
     divs[i].onclick = function(e) {
 
-      if(typeof matcher[0].style != 'undefined') {
+      if(typeof matcher[0] != 'undefined') {
         if(hasClass(matcher[0].nextSibling, 'bracket-matcher')) {
           var el = document.createElement("div");
           el.className = 'bracket-matcher-line';
@@ -45,4 +44,4 @@ document.ready = function () {
     }
   }
 
-};
+}
