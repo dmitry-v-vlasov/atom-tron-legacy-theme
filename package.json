@@ -1,10 +1,10 @@
 {
-  "name": "tron-theme",
+  "name": "tron-legacy-theme",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.0.1",
   "private": true,
-  "description": "Adaption of Tron Legacy theme for Atom",
-  "repository": "https://github.com/jltorresm/atom-tron-theme",
+  "description": "More readable adaption of Tron Legacy theme for Atom. Forked from jltorresm/atom-tron-theme",
+  "repository": "https://github.com/spacerockzero/atom-tron-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
