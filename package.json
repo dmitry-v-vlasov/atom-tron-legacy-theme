@@ -1,7 +1,7 @@
 {
   "name": "tron-legacy-theme",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "private": true,
   "description": "More readable adaption of Tron Legacy theme for Atom. Forked from jltorresm/atom-tron-theme",
   "repository": "https://github.com/spacerockzero/atom-tron-legacy-theme",
