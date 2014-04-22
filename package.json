@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "description": "More readable adaption of Tron Legacy theme for Atom. Forked from jltorresm/atom-tron-theme",
-  "repository": "https://github.com/spacerockzero/atom-tron-theme",
+  "repository": "https://github.com/spacerockzero/atom-tron-legacy-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

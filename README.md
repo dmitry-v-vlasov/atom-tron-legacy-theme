@@ -1,7 +1,5 @@
-atom-tron-theme
+atom-tron-legacy-theme
 =======
+forked from jltorresm/atom-tron-theme
 
-** Not quite finished yet! **
-
-* Added PHP specific coloring
-* Added JSON specific coloring
+A more legible Tron: Legacy-based syntax theme
